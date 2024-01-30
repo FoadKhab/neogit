@@ -6,7 +6,7 @@ mabani 17 3
 physics 18 3
 end
 login-s ardalan dehghani 401105901
-login-s ardalan dehghan 401105902
+login-s ardalan dehghسبیشan 401105902
 login-s ardalan dehghan 401105901
 show-gpa
 logout
