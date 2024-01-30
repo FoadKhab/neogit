@@ -1,0 +1,15 @@
+register-d 1
+register-s ardalan dehghan 401105901 1
+riazi1 15.6 3
+riazi2 17.2 3
+mabani 17 3
+physics 18 3
+end
+login-s ardalan dehghani 401105901
+login-s ardalan dehghan 401105902
+login-s ardalan dehghan 401105901
+show-gpa
+logout
+show-gpa
+end
+exit
